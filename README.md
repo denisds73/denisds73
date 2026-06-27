@@ -41,6 +41,8 @@ Full-stack developer who builds with **React**, **TypeScript**, and **NestJS**. 
 
 ## Get in touch
 
+**Portfolio:** [flaviodenis.vercel.app](https://flaviodenis.vercel.app)
+**Resume:** [Resume](https://getresumefolio.com/@flavio-denis/frontend-fmut54)  
 **LinkedIn:** [linkedin.com/in/flavio-denis](https://www.linkedin.com/in/flavio-denis/)  
 **Email:** flaviodenis2003@gmail.com
 
